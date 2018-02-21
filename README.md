@@ -1,2 +1,1 @@
-# Long-s-Repo
-coder camps
+# Long-s-Repo coder camps
